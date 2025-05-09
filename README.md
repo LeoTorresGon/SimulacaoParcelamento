@@ -1,0 +1,1 @@
+Projeto feito em C# como projeto do terceiro bimestre da matéria de Programação Visual Básica. O programa simula um parcelamento com a entrada do valor total, quantidade de parcelas e data atual. A partir disso, ele calcula as parcelas e te permite pagar uma parcela ou alterar a data, de forma que o programa atualiza os juros automaticamente.
